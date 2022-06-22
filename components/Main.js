@@ -1,4 +1,4 @@
-// Template is https://github.com/r1/nine4-3
+// Template is https://github.com/r1/nine4-3 localhost:3000 (npm run dev)
 export default function Main() {
   return (
     <section class="text-gray-600 body-font">
